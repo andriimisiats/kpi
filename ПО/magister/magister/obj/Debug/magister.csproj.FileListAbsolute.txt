@@ -1,0 +1,10 @@
+E:\repos\magister\magister\bin\Debug\magister.exe.config
+E:\repos\magister\magister\bin\Debug\magister.exe
+E:\repos\magister\magister\bin\Debug\magister.pdb
+E:\repos\magister\magister\obj\Debug\magister.fMain.resources
+E:\repos\magister\magister\obj\Debug\magister.Properties.Resources.resources
+E:\repos\magister\magister\obj\Debug\magister.csproj.GenerateResource.Cache
+E:\repos\magister\magister\obj\Debug\magister.csproj.CoreCompileInputs.cache
+E:\repos\magister\magister\obj\Debug\magister.exe
+E:\repos\magister\magister\obj\Debug\magister.pdb
+E:\repos\magister\magister\obj\Debug\magister.csprojResolveAssemblyReference.cache

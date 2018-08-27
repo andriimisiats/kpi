@@ -1,0 +1,16 @@
+E:\repos\magister\magister\obj\Debug\Magistra.csproj.GenerateResource.Cache
+E:\repos\magister\magister\obj\Debug\Magistra.csproj.CoreCompileInputs.cache
+E:\repos\magister\magister\obj\Debug\Master.MainForm.resources
+E:\repos\magister\magister\bin\Debug\master.exe.config
+E:\repos\magister\magister\bin\Debug\master.exe.manifest
+E:\repos\magister\magister\bin\Debug\master.application
+E:\repos\magister\magister\bin\Debug\master.exe
+E:\repos\magister\magister\bin\Debug\master.pdb
+E:\repos\magister\magister\obj\Debug\master.Properties.Resources.resources
+E:\repos\magister\magister\obj\Debug\master.exe.manifest
+E:\repos\magister\magister\obj\Debug\master.application
+E:\repos\magister\magister\obj\Debug\master.exe
+E:\repos\magister\magister\obj\Debug\master.pdb
+E:\repos\magister\magister\bin\Debug\kayChart.dll
+E:\repos\magister\magister\obj\Debug\Magistra.csproj.CopyComplete
+E:\repos\magister\magister\obj\Debug\Magistra.csprojResolveAssemblyReference.cache
